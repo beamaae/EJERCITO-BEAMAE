@@ -1,2 +1,44 @@
 # EJERCITO-BEAMAE
-Hello! I am Beamae A. Ejercito, a BSIT student at NORSU Bais Campus. I enjoy learning new things, exploring technology, and discovering my abilities. I believe every challenge is a chance to grow and improve. My goal is to become a successful IT professional, use my skills creatively, and make a positive difference in the world one step at a time.
+
+## Introduction:
+
+"Hello! I am Beamae Ejercito, a Bachelor of Science in Information Technology (BSIT) student at Negros Oriental State University (NORSU), Bais City Campus. I enjoy exploring technology, expressing my creativity, learning new skills, and discovering new things."
+
+## About Me:
+
+- Full Name: Beamae Ejercito
+- Birthday: May 13, 2007
+- Hometown: Cabcaban, Bindoy, Negros Oriental
+- Course: BSIT
+- School: NORSU Bais City Campus
+
+## Favorite Colors:
+
+- Black
+- Red
+- Blue
+
+## Favorite Foods:
+
+- Chocolate
+- Spaghetti
+- Sisig
+- Lechon Manok
+
+## Hobbies:
+
+- Drawing and Painting
+- Playing Guitar, Piano, and Bass
+- Singing
+- Dancing
+- Cooking
+- Photography
+- Playing Volleyball
+- Sleeping
+
+## Favorite Websites:
+
+- Wattpad: https://www.wattpad.com/
+- Facebook: https://www.facebook.com/
+- Instagram: https://www.instagram.com/
+- TikTok: https://www.tiktok.com/
