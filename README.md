@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-"Hello! I am Beamae Ejercito, a Bachelor of Science in Information Technology (BSIT) student at Negros Oriental State University (NORSU), Bais City Campus. I enjoy exploring technology, expressing my creativity, learning new skills, and discovering new things."
+"Hello! I am Beamae Ejercito, a Bachelor of Science in Information Technology (BSIT) student at Negros Oriental State University (NORSU), Bais City Campus. I enjoy exploring technology, expressing my [...]
 
 ## About Me:
 
@@ -35,6 +35,16 @@
 - Photography
 - Playing Volleyball
 - Sleeping
+
+## Hobby Pictures:
+
+| Drawing and Painting | Playing Music | Cooking |
+|:---:|:---:|:---:|
+| ![Drawing and painting](drawing.jpg) | ![Playing music](music.jpg) | ![Cooking](cooking.jpg) |
+
+| Playing Volleyball | Sleeping |
+|:---:|:---:|
+| ![Playing volleyball](volleyball.jpg) | ![Sleeping](sleeping.jpg) |
 
 ## Favorite Websites:
 
